@@ -1,4 +1,4 @@
-Hi there! Thanks for wanting to add a product to receive inventory alerts for. To make sure we reach the community better we ask you to fill out this form before submitting an issue:
+Hi there! Thanks for wanting to add a product to receive inventory alerts for. To make sure we reach the community better we ask you to fill out this form before submitting an issue.
 
 Please delete everything before --- before you submit the issue.
 
